@@ -2,4 +2,4 @@
 .vscode/
 *.pyc
 __pycache__/
-test_move.pptx
+*.pptx
